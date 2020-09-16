@@ -1,4 +1,4 @@
-# FootballThemeWP
+# Football Theme WP
 Wordpress template with Football Concept that keeps track of players and their information.
 
 # Includes
