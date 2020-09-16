@@ -6,7 +6,7 @@ Wordpress template with Football Concept that keeps track of players and their i
 Wordpress, MetaBox, PHP, Redux Framework, Contact Form 7
 `
 
-# Instalation
+# Installation
 
 1. Install Wordpress in a custom directory. You can download WP from here [here](https://wordpress.org/).
 2. Download the files from this repository.
